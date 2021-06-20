@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI 計算器</string>
+    <string name="身高_1">身高</string>
+    <string name="身高_2">身高:</string>
+    <string name="cm">cm</string>
+    <string name="體重">體重:</string>
+    <string name="kg">kg</string>
+    <string name="清除">清除</string>
+    <string name="計算">計算</string>
+    <string name="ok">確定</string>
+</resources>
